@@ -115,10 +115,3 @@ Vagrant.configure("2") do |config|
   #
   #   chef.validation_client_name = "ORGNAME-validator"
 end
-
-Also see
-
-    Vagrant
-
-Cheatsheets is a collection of cheatsheets I've written over the years. Suggestions and corrections? Send them in. I'm Rico Sta. Cruz. Check out my Today I learned blog for more.
-
